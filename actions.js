@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.setLatestPatch = void 0;
+const redux_act_1 = require("redux-act");
+exports.setLatestPatch = (0, redux_act_1.createAction)('MHR_SET_LATEST_PATCH', (patch) => patch);
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWN0aW9ucy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbImFjdGlvbnMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQUEseUNBQXlDO0FBRTVCLFFBQUEsY0FBYyxHQUFHLElBQUEsd0JBQVksRUFBQyxzQkFBc0IsRUFBRSxDQUFDLEtBQWEsRUFBRSxFQUFFLENBQUMsS0FBSyxDQUFDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBjcmVhdGVBY3Rpb24gfSBmcm9tICdyZWR1eC1hY3QnO1xyXG5cclxuZXhwb3J0IGNvbnN0IHNldExhdGVzdFBhdGNoID0gY3JlYXRlQWN0aW9uKCdNSFJfU0VUX0xBVEVTVF9QQVRDSCcsIChwYXRjaDogc3RyaW5nKSA9PiBwYXRjaCk7Il19
